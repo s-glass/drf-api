@@ -7,8 +7,6 @@ Author: Sarah Glass for Python 401
 
 ## Overview
 
-**Overview:**
-
 - Use Django REST Framework to create an API, then “containerize” it with Docker.
 
 **Feature Tasks and Requirements**

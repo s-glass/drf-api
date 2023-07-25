@@ -3,7 +3,7 @@
 
 Author: Sarah Glass for Python 401
 
-- Worked at a Remo table with Anthony, Dan, Slava, Logan, and Jared.
+- Worked at a Remo table with Anthony, Slava, Logan, and Jared.
 
 ## Overview
 
